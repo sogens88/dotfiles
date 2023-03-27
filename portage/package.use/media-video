@@ -1,0 +1,3 @@
+media-video/wireplumber lua_single_target_lua5-4
+media-video/ffmpeg opus vpx
+media-video/pipewire bluetooth echo-cancel extra ffmpeg flatpak gsettings gstreamer lv2 pipewire-alsa sound-server system-service test v4l 

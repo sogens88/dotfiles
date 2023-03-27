@@ -1,0 +1,2 @@
+net-misc/networkmanager -nss iwd resolvconf lto
+net-misc/curl ssh

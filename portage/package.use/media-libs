@@ -1,0 +1,4 @@
+media-libs/mesa vaapi d3d9 opencl lm-sensors osmesa vdpau valgrind virgl vulkan-overlay xa zink
+media-libs/libva opengl X
+media-libs/tg_owt screencast
+media-libs/rubberband ladspa
